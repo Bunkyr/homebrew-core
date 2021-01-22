@@ -1,8 +1,8 @@
 class Xc3sprog < Formula
   desc "Utilities for programming Xilinx FPGAs, CPLDs, and EEPROMs with JTAG adapters"
   homepage "https://github.com/bunkyr/xc3sprog"
-  url "https://github.com/bunkyr/xc3sprog/archive/v0.1.0.tar.gz"
-  sha256 "dc30a408d215c265c7b00d3c63583a2ad40a5de8124cdce82649a10fa8273c8b"
+  url "https://github.com/bunkyr/xc3sprog/archive/v0.1.1.tar.gz"
+  sha256 "fd03f1eed8ca810241d160b14df767bfc7fa47628add8e277f40cc3d8cbdc3de"
   head "https://github.com/bunkyr/xc3sprog.git"
 
   depends_on "cmake" => :build
